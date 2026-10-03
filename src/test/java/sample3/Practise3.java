@@ -1,0 +1,11 @@
+package sample3;
+
+public class Practise3 {
+
+	public static void main(String[] args) {
+		System.out.println("HAPPY Birthday");
+		System.out.println("Hello world");
+
+	}
+
+}
