@@ -6,6 +6,7 @@ public class Practise3 {
 		System.out.println("HAPPY Birthday");
 		System.out.println("Hello world");
 		System.out.println("Hii How are you");
+		System.out.println("Good morning");
 	}
 
 }
