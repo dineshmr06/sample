@@ -7,7 +7,6 @@ public class Practise3 {
 		System.out.println("Hello world");
 		System.out.println("Hii How are you");
 		System.out.println("pull operation");
-		
 	}
 
 }
