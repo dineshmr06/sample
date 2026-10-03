@@ -9,6 +9,7 @@ public class Practise3 {
 		System.out.println("pull operation");
 		System.out.println("Good morning");
 		System.out.println("good night");
+		System.out.println("gOOD NOON");
 	}
 
 }
